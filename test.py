@@ -8,3 +8,4 @@ def showDate():
 	print("Now is :")
 	
 showDate()
+showDate()
