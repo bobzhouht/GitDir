@@ -3,4 +3,4 @@
 
 
 def showDate():
-	print("Now is :")
+	print("Now is")
