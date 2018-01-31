@@ -2,6 +2,5 @@
 # -*- coding: utf-8 -*-
 
 
-print("Working")
 def showDate():
 	print("Now is :")
